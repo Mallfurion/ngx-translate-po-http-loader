@@ -1,5 +1,5 @@
 {
-  "name": "@fjnr/ngx-translate-po-http-loader",
+  "name": "@mallfurion/ngx-translate-po-http-loader",
   "version": "3.1.0",
   "description": "Load po files for use with ngx-translate",
   "main": "dist/index.js",
@@ -15,15 +15,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fjnr-inc/ngx-translate-po-http-loader.git"
+    "url": "https://github.com/Mallfurion/ngx-translate-po-http-loader.git"
   },
   "keywords": [],
-  "author": "Noël Rignon <noel.rignon@fjnr.ca>",
+  "contributors": [
+    "Noël Rignon <noel.rignon@fjnr.ca>"
+  ],
+  "author": "Florin Tomozei <florin.scouts@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fjnr-inc/ngx-translate-po-http-loader/issues"
+    "url": "https://github.com/Mallfurion/ngx-translate-po-http-loader/issues"
   },
-  "homepage": "https://github.com/fjnr-inc/ngx-translate-po-http-loader",
+  "homepage": "https://github.com/Mallfurion/ngx-translate-po-http-loader",
   "engines": {
     "node": ">=4.1.1"
   },
