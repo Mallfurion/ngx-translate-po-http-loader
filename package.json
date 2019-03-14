@@ -34,7 +34,7 @@
     "@ngx-translate/core": "^10.0.0"
   },
   "dependencies": {
-    "gettext-parser": "^2.1.0"
+    "gettext-parser": "^3.0.1"
   },
   "devDependencies": {
     "@angular/core": "^6.0.0",
